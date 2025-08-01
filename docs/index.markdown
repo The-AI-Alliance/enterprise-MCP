@@ -23,6 +23,11 @@ This site is organized into the following sections [^1] (with an example footnot
 * [TODO - topic 2]({{site.baseurl}}/topics/topic2)
 * ...
 
+## Other Resources for MCP
+
+* [About MCP](https://modelcontextprotocol.io/introduction){:target="_blank"}
+* ...
+
 ## For More Information
 
 * [Contributing]({{site.baseurl}}/contributing): We welcome your contributions! Here's how you can contribute.
