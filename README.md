@@ -1,10 +1,10 @@
-# README for MICROSITE_TITLE
+# README for MCP in the Enterprise: A User Guide
 
-[Published Documentation](https://the-ai-alliance.github.io/REPO_NAME/)
+[Published Documentation](https://the-ai-alliance.github.io/enterprise-MCP/)
 
-This repo contains the code and documentation for the AI Alliance: MICROSITE_TITLE.
+This repo contains the code and documentation for the AI Alliance: MCP in the Enterprise: A User Guide.
 
-See the [project website](https://the-ai-alliance.github.io/REPO_NAME/) for additional details about this project.
+See the [project website](https://the-ai-alliance.github.io/enterprise-MCP/) for additional details about this project.
 
 TODO - Describe this project
 
