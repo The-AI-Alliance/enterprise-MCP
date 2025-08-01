@@ -17,6 +17,7 @@ These are the main steps, with details below:
 1. **If** you plan to publish the website from the `latest` branch, merge changes to that branch from `main`.
 1. Edit the repo's _Settings_. 
     1. On the repo's home page in GitHub, click the _Settings_ "gear" on the upper right-hand side. 
+    1. Click the checkbox labeled _Require contributors to sign off on web-based commits Loading._ 
     1. Scroll down to _Features_ and click _Discussions_ to enable them (unless you don't want them; in this case, remove the URL on the `docs/contributing.markdown` page!).
     1. On the left-hand side, click the link for _Pages_. Under _Branch_, select the `main` or `latest` branch depending on which one you want to use, then select the `/docs` directory. (**NOTE:** Make the repo is _public_ or else the pages won't get published.)
 1. (Optional) Create a _Project_ (i.e., a dashboard) to track your work. Click the _Project_ tab in the repo GitHub page and then either click the _+ New project+_ button or if you want your project to join an existing dashboard, click the _Link a project_ button and find the correct project.
@@ -138,13 +139,17 @@ By default, the website is published from the `main` branch, for convenience. Ho
 
 To publish the website and setup some other repo features, click the _Settings_ "gear" on the upper right-hand side of the repo's top-level page. 
 
-#### 7a. Enable discussions.
+#### 7a. Click the checkbox labeled _Require contributors to sign off on web-based commits Loading._ 
+
+We require [DCO](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md#developer-certificate-of-origin) ("Developer Certificate of Origin") cheks for all commits. Setting this checkbox turns this on automatically for users making repo edits in the GitHub Web UI.
+
+#### 7b. Enable discussions.
 
 Scroll down to _Features_ and click _Discussions_ to enable them. Click the _Set up discussions_ button and edit the first discussion topic to taste, then post it.
 
-However, if you don't want discussions, remove the URL on the `docs/contributing.markdown` page. (Don't forget to merge that edit to any other branches.)
+However, if you don't want to enable discussions, then remove the URL on the `docs/contributing.markdown` page.
 
-#### 7b. Publish your website.
+#### 7c. Publish your website.
 
 On the left-hand side of the _Settings_, click the link for _Pages_. Under _Branch_, select your publication branch, either `main`, `latest`, or a custom branch you specified above. Then select the `/docs` directory and finally, click _Save_.
 

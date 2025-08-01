@@ -2,11 +2,9 @@
 
 [Published Documentation](https://the-ai-alliance.github.io/enterprise-MCP/)
 
-This repo contains the code and documentation for the AI Alliance: MCP in the Enterprise: A User Guide.
+This repo contains the GitHub Pages website with articles on using MCP effectively in enterprise settings, where high availiability, security, etc. are important concerns.
 
 See the [project website](https://the-ai-alliance.github.io/enterprise-MCP/) for additional details about this project.
-
-TODO - Describe this project
 
 The rest of this README provides information for contributors, developers, and users of this project repo.
 
@@ -16,9 +14,11 @@ We welcome contributions as PRs. Please see our [Alliance community repo](https:
 
 In particular, see the AI Alliance [CONTRIBUTING](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md) instructions. You will need to agree with the AI Alliance [Code of Conduct](https://github.com/The-AI-Alliance/community/blob/main/CODE_OF_CONDUCT.md).
 
-All _code_ contributions are licensed under the [Apache 2.0 LICENSE](https://github.com/The-AI-Alliance/community/blob/main/LICENSE.Apache-2.0) (which is also in this repo, [LICENSE.Apache-2.0](LICENSE.Apache-2.0)).
+All _documentation_ contributions are licensed under the [Creative Commons Attribution 4.0 International](https://github.com/The-AI-Alliance/community/blob/main/LICENSE.CC-BY-4.0) (which is also in this repo, [LICENSE.CC-BY-4.0](LICENSE.CC-BY-4.0)). This is the primary license we care about for this documentation site.
 
-All _documentation_ contributions are licensed under the [Creative Commons Attribution 4.0 International](https://github.com/The-AI-Alliance/community/blob/main/LICENSE.CC-BY-4.0) (which is also in this repo, [LICENSE.CC-BY-4.0](LICENSE.CC-BY-4.0)).
+However, any code and data in this repo are licensed as follows:
+
+All _code_ contributions are licensed under the [Apache 2.0 LICENSE](https://github.com/The-AI-Alliance/community/blob/main/LICENSE.Apache-2.0) (which is also in this repo, [LICENSE.Apache-2.0](LICENSE.Apache-2.0)).
 
 All _data_ contributions are licensed under the [Community Data License Agreement - Permissive - Version 2.0](https://github.com/The-AI-Alliance/community/blob/main/LICENSE.CDLA-2.0) (which is also in this repo, [LICENSE.CDLA-2.0](LICENSE.CDLA-2.0)).
 
