@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MCP in the Enterprise: A User Guide
+title: "MCP in the Enterprise: A User Guide"
 email: contact@thealliance.ai
 description: >- # this means to ignore newlines until "baseurl:"
   The website for the AI Alliance project, MCP in the Enterprise: A User Guide.
@@ -70,7 +70,7 @@ aux_links:
     - "https://thealliance.ai"
 
 nav_external_links:
-  - title: The AI Alliance repo for MCP in the Enterprise: A User Guide"
+  - title: "The AI Alliance repo for MCP in the Enterprise: A User Guide"
     url: "https://github.com/The-AI-Alliance/enterprise-MCP"
     hide_icon: false
 

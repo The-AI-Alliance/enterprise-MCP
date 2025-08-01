@@ -5,7 +5,7 @@ nav_order: 100
 has_children: false
 ---
 
-# About MCP in the Enterprise: A User Guide and The AI Alliance
+# About The AI Alliance and this Project
 
 **MCP in the Enterprise: A User Guide** is a project of the [Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
 
@@ -24,4 +24,11 @@ If you have any questions or concerns about this effort, please contact us at [c
 
 ## About This Documentation
 
-This documentation is built with [GitHub Pages](https://pages.github.com/){:target="github-pages"}, which uses [Jekyll](https://github.com/jekyll/jekyll){:target="gh-jekyll"} to serve the website. We use the [Just the Docs](https://just-the-docs.github.io/just-the-docs/){:target="just-the-docs"} Jekyll theme.
+This documentation is built with [GitHub Pages](https://pages.github.com/){:target="github-pages"}, which uses [Jekyll](https://github.com/jekyll/jekyll){:target="gh-jekyll"} to serve the website. We use the [Just the Docs](https://just-the-docs.github.io/just-the-docs/){:target="just-the-docs"} Jekyll theme. See the repo file [GITHUB_PAGES]()
+
+### Version History
+
+| Version  | Date       |
+| :------- | :--------- |
+| V0.1.0   | 2025-08-01 |
+

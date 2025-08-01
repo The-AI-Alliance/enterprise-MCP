@@ -6,9 +6,12 @@ nav_order: 90
 
 # Contributors
 
-The following people and organizations have contributed to the creation and maintenance of this project:
+The following people have contributed to the creation and maintenance of this project:
 
-* TODO
+* [Trevor Grant](https://github.com/orgs/The-AI-Alliance/people/rawkintrevo){:target="_blank"}
+* [Joe Olson](https://github.com/orgs/The-AI-Alliance/people/jolson-ibm){:target="_blank"}
+* [Dean Wampler](https://github.com/orgs/The-AI-Alliance/people/deanwampler){:target="_blank"}
+* [Adam Pingel](https://github.com/orgs/The-AI-Alliance/people/adampingel){:target="_blank"}
 
 # How to Contribute to this Project
 
@@ -31,7 +34,8 @@ Are you interested in joining this project's work group? Use the form on the All
 
 Check these boxes on the form:
 
-- [ ] TODO
+- [ ] Application and Tools WG
+- [ ] Frameworks, kernels
 
 In the &ldquo;Message&rdquo; box mention this project, **MCP in the Enterprise: A User Guide**, and add anything else you would like us to know.
 
@@ -42,3 +46,6 @@ If your organization would like to join the AI Alliance, go [here](https://theal
 The sources for this website are in the GitHub repo's [`docs`](https://github.com/The-AI-Alliance/enterprise-MCP/tree/main/docs){:target="repo-docs"} directory. 
 
 Notice that every page on this website has an _Edit this page on GitHub_ link to the corresponding location for the page in the GitHub repo, making it easy to view a page, then go straight to the source, make edits, and submit a PR! This is the best way to help us fix typos and make other small improvements.
+
+This documentation is built with [GitHub Pages](https://pages.github.com/){:target="github-pages"}, which uses [Jekyll](https://github.com/jekyll/jekyll){:target="gh-jekyll"} to serve the website. We use the [Just the Docs](https://just-the-docs.github.io/just-the-docs/){:target="just-the-docs"} Jekyll theme. See the repo file [`GITHUB_PAGES.md`](https://github.com/The-AI-Alliance/enterprise-MCP/tree/main/GITHUB_PAGES.md){:target="_blank"} for more information.
+
