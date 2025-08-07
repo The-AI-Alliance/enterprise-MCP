@@ -13,13 +13,22 @@ The following people have contributed to the creation and maintenance of this pr
 * [Dean Wampler](https://github.com/orgs/The-AI-Alliance/people/deanwampler){:target="_blank"}
 * [Adam Pingel](https://github.com/orgs/The-AI-Alliance/people/adampingel){:target="_blank"}
 
-# How to Contribute to this Project
+# How to Contribute to this Documentation
 
-We welcome your contributions! Visit the Alliance [`community` repo](https://github.com/The-AI-Alliance/community/){:target="community"}, specifically the [`CONTRIBUTING` page](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="community"} for general information about contributing. 
+We welcome your contributions to help enterprises use MCP effectively. The documentation is organized into sections, like security, developer APIs, etc., with chapters on specific topics.
 
-Visit the project's [GitHub repo](https://github.com/The-AI-Alliance/enterprise-MCP/){:target="repo"} and the [open issues](https://github.com/The-AI-Alliance/enterprise-MCP/issues){:target="issues"} to find areas where help is needed. We welcome [pull requests](https://github.com/The-AI-Alliance/enterprise-MCP/pulls){:target="prs"} and suggestions as [new issues](https://github.com/The-AI-Alliance/enterprise-MCP/issues){:target="issues"}.
+Suggestions for topics _you wish were covered_, like your pain points, are also welcome!
 
-Finally, you can provide feedback using [email](mailto:contact@thealliance.ai). Be sure to mention this particular project.
+Ways to suggest ideas:
+* Post a [discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions){:target="discussions"} 
+* Post an [issue](https://github.com/The-AI-Alliance/enterprise-MCP/issues){:target="issues"} 
+* Send us [email](mailto:contact@thealliance.ai). This is a general email address, so be sure to mention this particular project.
+
+Ready to offer new content or suggest improvements to existing content?
+* Post a [pull request](https://github.com/The-AI-Alliance/enterprise-MCP/pulls){:target="prs"} with new content! 
+	* For corrections to existing pages, note that every page has an _Edit this page on GitHub_ link, which goes straight to the page's source. Make your edits there and submit a PR! This is the best way to help us fix typos and make other small improvements.
+
+For general information about contributing to AI Alliance projects, visit [this `community` repo](https://github.com/The-AI-Alliance/community/){:target="community"}, specifically the [`CONTRIBUTING` page](https://github.com/The-AI-Alliance/community/blob/main/CONTRIBUTING.md){:target="community"} for general information about contributing. 
 
 See also the full list of projects [here](https://the-ai-alliance.github.io/){:target="aia-github"} to find other projects that might interest you.
 
@@ -28,14 +37,15 @@ Keep the following anchor in case you change the section "Join..." text.
 The link is used by the default docs/_includes/header_buttons_custom.html, for example.
 {% endcomment %}
 <a name="join-this-project"></a>
-## Join this Project Work Group
+## Join This Project Work Group
 
-Are you interested in joining this project's work group? Use the form on the Alliance's [Become a collaborator](https://thealliance.ai/become-a-collaborator){:target="join-collab"} page to let us know your interests. 
+Want to help us drive the evolution of MCP for the enterprise? Please join our work group, which is contributing to several enterprise MCP projects. 
 
-Check these boxes on the form:
+Use the form on the Alliance's [Become a collaborator](https://thealliance.ai/become-a-collaborator){:target="join-collab"} page to let us know your interests. 
+
+Check this box on the form:
 
 - [ ] Application and Tools WG
-- [ ] Frameworks, kernels
 
 In the &ldquo;Message&rdquo; box mention this project, **MCP in the Enterprise: A User Guide**, and add anything else you would like us to know.
 
