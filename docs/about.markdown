@@ -30,5 +30,6 @@ This documentation is built with [GitHub Pages](https://pages.github.com/){:targ
 
 | Version  | Date       |
 | :------- | :--------- |
+| V0.1.1   | 2025-08-07 |
 | V0.1.0   | 2025-08-01 |
 
