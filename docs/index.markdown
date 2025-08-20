@@ -10,7 +10,7 @@ has_children: false
 {: .tip }
 > **TIP:** Use the search box at the top of this page to find specific content.
 
-Welcome to the **AI Alliance** website, **MCP in the Enterprise: A User Guide**. This guide provides guidance from leading experts on the [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"}, an emerging standard for AI agent and application communications.
+Welcome to the **AI Alliance** website, **MCP in the Enterprise: A User Guide**. This guide provides guidance from leading experts on the [Model Context Protocol](https://modelcontextprotocol.io/introduction){:target="_blank"}, an emerging standard for AI agent and application communications. This guidance includes tips, best practices, and lessons learned using MCP in enterprise settings.
 
 We are looking for more contributions! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
@@ -23,12 +23,10 @@ What is the Model Context Protocol? From the [MCP website](https://modelcontextp
 
 ## Chapters in This User Guide
 
-{: .note }
-> **NOTE:** This website is in the early stages of development. Check back regularly for new content.
-
-* [Placeholder: chapter 1]({{site.baseurl}}/chapters/01-tbd)
-* [Placeholder: chapter 2]({{site.baseurl}}/chapters/02-tbd)
-* ...
+{: .todo }
+> **TODO:** This website is in the early stages of development. Check back regularly for new content. We plan to publish the first contributions and the planned &ldquo;V1.0&rdquo; outline in early September.
+>
+> The planned outline is being worked out in [this discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions/4){:target="outline"} in the corresponding GitHub repo. Please suggest improvements to this outline or areas where you would like to [contribute]({{site.baseurl}}/contributing)!
 
 ## Other Resources on MCP
 

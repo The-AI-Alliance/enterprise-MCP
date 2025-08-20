@@ -12,19 +12,20 @@ The following people have contributed to the creation and maintenance of this pr
 * [Joe Olson](https://github.com/orgs/The-AI-Alliance/people/jolson-ibm){:target="_blank"}
 * [Dean Wampler](https://github.com/orgs/The-AI-Alliance/people/deanwampler){:target="_blank"}
 * [Adam Pingel](https://github.com/orgs/The-AI-Alliance/people/adampingel){:target="_blank"}
+* More to be announced soon...
 
 # How to Contribute to this Documentation
 
-We welcome your contributions to help enterprises use MCP effectively. The documentation is organized into sections, like security, developer APIs, etc., with chapters on specific topics.
+We welcome your contributions to help enterprises use MCP effectively. The documentation is organized into sections, like security, developer APIs, &ldquo;tales from the field&rdquo;, etc., with chapters on specific topics.
 
 Suggestions for topics _you wish were covered_, like your pain points, are also welcome!
 
 Ways to suggest ideas:
-* Post a [discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions){:target="discussions"} 
-* Post an [issue](https://github.com/The-AI-Alliance/enterprise-MCP/issues){:target="issues"} 
-* Send us [email](mailto:contact@thealliance.ai). This is a general email address, so be sure to mention this particular project.
+* Comment on the proposed outline [here](https://github.com/The-AI-Alliance/enterprise-MCP/discussions/4){:target="outline"} or post a new [discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions){:target="discussions"} topic.
+* Post an [issue](https://github.com/The-AI-Alliance/enterprise-MCP/issues){:target="issues"}.
+* Send us [email](mailto:contact@thealliance.ai). This is a general email address, so be sure to mention this particular project, _MCP in the Enterprise: A User Guide_.
 
-Ready to offer new content or suggest improvements to existing content?
+Ready to offer new content or specific improvements to existing content?
 * Post a [pull request](https://github.com/The-AI-Alliance/enterprise-MCP/pulls){:target="prs"} with new content! 
 	* For corrections to existing pages, note that every page has an _Edit this page on GitHub_ link, which goes straight to the page's source. Make your edits there and submit a PR! This is the best way to help us fix typos and make other small improvements.
 
