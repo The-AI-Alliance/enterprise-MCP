@@ -7,7 +7,7 @@ has_children: false
 
 # About The AI Alliance and this Project
 
-**MCP in the Enterprise: A User Guide** is a project of the [Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
+**MCP in the Enterprise: A User Guide** is a project of the [Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. It is intended as an collection of tips, best practices, and lessons learned using MCP in enterprise settings.
 
 [Contributions are welcome!]({{site.baseurl}}/contributing).
 
