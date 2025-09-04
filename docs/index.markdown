@@ -28,6 +28,41 @@ What is the Model Context Protocol? From the [MCP website](https://modelcontextp
 >
 > The planned outline is being worked out in [this discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions/4){:target="outline"} in the corresponding GitHub repo. Please suggest improvements to this outline or areas where you would like to [contribute]({{site.baseurl}}/contributing)!
 
+Here is the current planned outline, with links to available chapters and &ldquo;assignments&rdquo; indicated for chapters that are coming soon. 
+
+* Getting to know MCP and its ecosystem
+  * A quick introduction to MCP
+  * A dive into MCP under the hood
+  * MCP vs. A2A vs. ??
+  * Natural Language Interaction Protocol (NLIP) and MCP - ServiceNow and Aitomatic
+  * The MCP roadmap
+* Managing MCP servers and how they are used in the enterprise.
+  * How to evaluate third-party MCP servers for quality, security, and utility.
+  * Tools for managing internal MCP server deployments.
+  * Tools for controlling access to approved MCP servers.
+  * …
+* Security
+  * OAuth for MCP
+  * Securing your MCP servers
+  * Known MCP vulnerabilities and what to do about them.
+  * …
+* Writing MCP servers: tools, techniques, and design patterns
+  * What makes a good MCP server?
+  * Testing and debugging MCP servers.
+  * Deep Research Agents – LastMile AI
+  * Data stores as MCP servers: relational, documents, knowledge graphs, oh my!
+  * …
+* Technical Deep Dives
+  * MCP internals
+  * Optimizing performance of MCP servers
+  * …
+* MCP in action: domain-specific examples
+  * Lessons learned the hard way
+  * Deep research agents in
+    * Finance
+    * Legal
+    * …
+
 ## Other Resources on MCP
 
 * [About MCP](https://modelcontextprotocol.io/introduction){:target="_blank"}

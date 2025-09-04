@@ -25,6 +25,7 @@ If you have any questions or concerns about this effort, please contact us at [c
 
 | Version  | Date       |
 | :------- | :--------- |
+| V0.1.3   | 2025-09-04 |
 | V0.1.2   | 2025-08-20 |
 | V0.1.1   | 2025-08-07 |
 | V0.1.0   | 2025-08-01 |
