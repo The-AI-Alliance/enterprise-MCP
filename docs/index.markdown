@@ -24,11 +24,13 @@ What is the Model Context Protocol? From the [MCP website](https://modelcontextp
 ## Chapters in This User Guide
 
 {: .todo }
-> **TODO:** This website is in the early stages of development. Check back regularly for new content. We plan to publish the first contributions and the planned &ldquo;V1.0&rdquo; outline in early September.
+> **TODO:** This website is in the early stages of development. Check back regularly for new content. We plan to publish the first contributions and the planned &ldquo;V1.0&rdquo; outline in September.
 >
-> The planned outline is being worked out in [this discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions/4){:target="outline"} in the corresponding GitHub repo. Please suggest improvements to this outline or areas where you would like to [contribute]({{site.baseurl}}/contributing)!
+> We welcome feedback on our current content and suggestions for new additions. Actual submissions are even better! See [contributing]({{site.baseurl}}/contributing) or provide feedback and suggestions using our [discussion forum](https://github.com/The-AI-Alliance/enterprise-MCP/discussions){:target="discussions"}.
+>
+> In particular, the planned outline is being worked out in [this discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions/4){:target="outline"}. It is summarized next. 
 
-Here is the current planned outline, with links to available chapters and &ldquo;assignments&rdquo; indicated for chapters that are coming soon. 
+Here is the current planned outline, with links to chapters that are already available. Authors are shown for chapters that are coming soon. 
 
 * Getting to know MCP and its ecosystem
   * A quick introduction to MCP
@@ -47,9 +49,9 @@ Here is the current planned outline, with links to available chapters and &ldquo
   * Known MCP vulnerabilities and what to do about them.
   * …
 * Developing MCP servers: tools, techniques, and design patterns
+  * [Building a Deep Research Agent Using MCP-Agent]({{site.baseurl}}/developing-mcp-servers/deep-research-mcp-agent/)
   * What makes a good MCP server?
   * Testing and debugging MCP servers.
-  * Deep Research Agents – LastMile AI
   * Data stores as MCP servers: relational, documents, knowledge graphs, oh my!
   * …
 * Technical Deep Dives
