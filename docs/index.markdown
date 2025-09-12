@@ -46,7 +46,7 @@ Here is the current planned outline, with links to available chapters and &ldquo
   * Securing your MCP servers
   * Known MCP vulnerabilities and what to do about them.
   * …
-* Writing MCP servers: tools, techniques, and design patterns
+* Developing MCP servers: tools, techniques, and design patterns
   * What makes a good MCP server?
   * Testing and debugging MCP servers.
   * Deep Research Agents – LastMile AI
