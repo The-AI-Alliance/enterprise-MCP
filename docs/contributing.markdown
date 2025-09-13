@@ -8,10 +8,10 @@ nav_order: 90
 
 The following people have contributed to the creation and maintenance of this project:
 
-* [Trevor Grant](https://github.com/orgs/The-AI-Alliance/people/rawkintrevo){:target="_blank"}
-* [Joe Olson](https://github.com/orgs/The-AI-Alliance/people/jolson-ibm){:target="_blank"}
-* [Dean Wampler](https://github.com/orgs/The-AI-Alliance/people/deanwampler){:target="_blank"}
-* [Adam Pingel](https://github.com/orgs/The-AI-Alliance/people/adampingel){:target="_blank"}
+* [Sarmad Qadri](https://www.linkedin.com/in/sarmadqadri/){:target="sq"}, Co-founder and CEO at LastMile AI
+	* [Building a Deep Research Agent Using MCP-Agent]({{site.baseurl}}/developing-mcp-servers/deep-research-mcp-agent/).
+* [Dean Wampler](https://www.linkedin.com/in/deanwampler/){:target="dw"},  IBM's Chief Technical Representative to the AI Alliance
+	* _MCP in the Enterprise_ editor.
 * More to be announced soon...
 
 # How to Contribute to this Documentation
