@@ -8,10 +8,10 @@ nav_order: 90
 
 The following people have contributed to the creation and maintenance of this project:
 
-* [Sarmad Qadri](https://www.linkedin.com/in/sarmadqadri/){:target="sq"}, Co-founder and CEO at LastMile AI
-	* [Building a Deep Research Agent Using MCP-Agent]({{site.baseurl}}/developing-mcp-servers/deep-research-mcp-agent/).
 * [Laurie Voss](https://www.linkedin.com/in/seldo/){:target="linkedin"} is VP of Developer Relations at [LlamaIndex](https://www.llamaindex.ai/workflows){:target="llamaindex"}, and former co-founder of npm Inc.
 	* [MCP and Everyone Else - A Review of Inter-agent Communication Protocols]({{site.baseurl}}/getting-to-know-mcp/mcp-and-everyone-else/)
+* [Sarmad Qadri](https://www.linkedin.com/in/sarmadqadri/){:target="sq"}, Co-founder and CEO at LastMile AI
+	* [Building a Deep Research Agent Using MCP-Agent]({{site.baseurl}}/developing-mcp-servers/deep-research-mcp-agent/).
 * [Dean Wampler](https://www.linkedin.com/in/deanwampler/){:target="dw"},  IBM's Chief Technical Representative to the AI Alliance
 	* Editor, _MCP in the Enterprise: A User Guide_.
 * More to be announced soon...
