@@ -11,7 +11,7 @@ The following people have contributed to the creation and maintenance of this pr
 * [Sarmad Qadri](https://www.linkedin.com/in/sarmadqadri/){:target="sq"}, Co-founder and CEO at LastMile AI
 	* [Building a Deep Research Agent Using MCP-Agent]({{site.baseurl}}/developing-mcp-servers/deep-research-mcp-agent/).
 * [Dean Wampler](https://www.linkedin.com/in/deanwampler/){:target="dw"},  IBM's Chief Technical Representative to the AI Alliance
-	* _MCP in the Enterprise_ editor.
+	* Editor, _MCP in the Enterprise: A User Guide_.
 * More to be announced soon...
 
 # How to Contribute to this Documentation

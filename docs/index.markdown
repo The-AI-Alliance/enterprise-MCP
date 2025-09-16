@@ -35,7 +35,7 @@ Here is the current planned outline, with links to chapters that are already ava
 * Getting to know MCP and its ecosystem
   * A quick introduction to MCP
   * A dive into MCP under the hood
-  * MCP vs. A2A vs. ??
+  * [MCP and Everyone Else: a Review of Inter-agent Communication Protocols]({{site.baseurl}}/getting-to-know-mcp/mcp-and-everyone-else/)
   * Natural Language Interaction Protocol (NLIP) and MCP - ServiceNow and Aitomatic
   * The MCP roadmap
 * Managing MCP servers and how they are used in the enterprise.

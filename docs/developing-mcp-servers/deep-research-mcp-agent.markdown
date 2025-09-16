@@ -9,9 +9,11 @@ has_children: false
 # Building a Deep Research Agent Using MCP-Agent
 
 _[Sarmad Qadri](https://www.linkedin.com/in/sarmadqadri/){:target="_blank"}, Co-founder and CEO at LastMile AI, and creator of [mcp-agent](https://github.com/lastmile-ai/mcp-agent){:target="mcp-agent"}_
+<br/>
+_Published: September 15, 2025_
 
 {: .note}
-> **Note:** This chapter was originally published as an [AI Alliance blog post](https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent){:target="_blank"}
+> **Editor's Note:** This chapter was originally published as an [AI Alliance blog post](https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent){:target="_blank"}. It is so insightful and broadly informative that I wanted to include it in this user guide. -- [Dean]({{site.baseurl}}/contributing/#contributors)
 
 In this chapter, I document my journey building a general-purpose, deep research agent powered by MCP, and sharing the valuable (and sometimes painful) lessons learned along the way.
 
