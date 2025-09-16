@@ -9,8 +9,7 @@ has_children: false
 # MCP and Everyone Else - A Review of Inter-agent Communication Protocols
 
 
-
-_Laurie Voss is VP of Developer Relations at LlamaIndex, and former co-founder of npm Inc._
+_[Laurie Voss](https://www.linkedin.com/in/seldo/){:target="linkedin"} is VP of Developer Relations at [LlamaIndex](https://www.llamaindex.ai/workflows){:target="llamaindex"}, and former co-founder of npm Inc._
 <br/>
 _Published: September 16, 2025_
 
