@@ -57,6 +57,7 @@ Here is the current planned outline, with links to chapters that are already ava
 * Technical Deep Dives
   * MCP internals
   * Optimizing performance of MCP servers
+  * Future directions for MCP: extensions to support more use cases, etc.
   * …
 * MCP in action: domain-specific examples
   * Lessons learned the hard way
