@@ -32,11 +32,11 @@ What is the Model Context Protocol? From the [MCP website](https://modelcontextp
 
 Here is the current planned outline, with links to chapters that are already available. Authors are shown for chapters that are coming soon. 
 
-* Getting to know MCP and its ecosystem
+* [Getting to know MCP and its ecosystem]({{site.baseurl}}/getting-to-know-mcp/)
   * A quick introduction to MCP
   * A dive into MCP under the hood
   * [MCP and Everyone Else: a Review of Inter-agent Communication Protocols]({{site.baseurl}}/getting-to-know-mcp/mcp-and-everyone-else/)
-  * Natural Language Interaction Protocol (NLIP) and MCP - ServiceNow and Aitomatic
+  * [NLIP, Agents, and Protocols]({{site.baseurl}}/getting-to-know-mcp/nlip/)
   * The MCP roadmap
 * Managing MCP servers and how they are used in the enterprise.
   * How to evaluate third-party MCP servers for quality, security, and utility.
@@ -48,7 +48,7 @@ Here is the current planned outline, with links to chapters that are already ava
   * Securing your MCP servers
   * Known MCP vulnerabilities and what to do about them.
   * …
-* Developing MCP servers: tools, techniques, and design patterns
+* [Developing MCP servers: tools, techniques, and design patterns]({{site.baseurl}}/developing-mcp-servers/)
   * [Building a Deep Research Agent Using MCP-Agent]({{site.baseurl}}/developing-mcp-servers/deep-research-mcp-agent/)
   * What makes a good MCP server?
   * Testing and debugging MCP servers.

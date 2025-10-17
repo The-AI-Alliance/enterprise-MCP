@@ -6,15 +6,18 @@ nav_order: 90
 
 # Contributors
 
-The following people have contributed to the creation and maintenance of this project:
+The following people have contributed to the creation and maintenance of this project, in alphabetical order by first name:
 
-* [Laurie Voss](https://www.linkedin.com/in/seldo/){:target="linkedin"} is VP of Developer Relations at [LlamaIndex](https://www.llamaindex.ai/workflows){:target="llamaindex"}, and former co-founder of npm Inc.
+* [Laurie Voss](https://www.linkedin.com/in/seldo/){:target="linkedin"} is the former VP of Developer Relations at [LlamaIndex](https://www.llamaindex.ai/workflows){:target="llamaindex"} and former co-founder of npm Inc.
 	* [MCP and Everyone Else - A Review of Inter-agent Communication Protocols]({{site.baseurl}}/getting-to-know-mcp/mcp-and-everyone-else/)
-* [Sarmad Qadri](https://www.linkedin.com/in/sarmadqadri/){:target="sq"}, Co-founder and CEO at LastMile AI
+* [Sarmad Qadri](https://www.linkedin.com/in/sarmadqadri/){:target="sq"}, Co-founder and CEO at LastMile AI.
 	* [Building a Deep Research Agent Using MCP-Agent]({{site.baseurl}}/developing-mcp-servers/deep-research-mcp-agent/).
-* [Dean Wampler](https://www.linkedin.com/in/deanwampler/){:target="dw"},  IBM's Chief Technical Representative to the AI Alliance
-	* Editor, _MCP in the Enterprise: A User Guide_.
-* More to be announced soon...
+* [Tom Sheffler](https://www.linkedin.com/in/tom-sheffler/){:target="linkedin"} is a computer engineer currently working towards interoperability of secure agentic systems as part of the NLIP project.  Previously, Tom built global web applications for managing and scaling genomics computations at Roche. As an entrepreneur, he founded the cloud-based video analytics company, Sensr.net, that provided a consumer solution for home security cameras.  Tom was an early employee at Rambus where he worked on the architecture and verification of high-speed memory devices.
+	* [NLIP, Agents, and Protocols]({{site.baseurl}}/getting-to-know-mcp/nlip/)
+
+Finally, [Dean Wampler](https://www.linkedin.com/in/deanwampler/){:target="dw"},  IBM's Chief Technical Representative to the AI Alliance, is the editor for _MCP in the Enterprise: A User Guide_.
+
+More contributors to be announced soon...
 
 # How to Contribute to this Documentation
 

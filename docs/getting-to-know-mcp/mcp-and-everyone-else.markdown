@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MCP and Everyone Else - A Review of Inter-agent Communication Protocols
-nav_order: 310
+nav_order: 210
 parent: Getting to Know MCP and Its Ecosystem
 has_children: false
 ---
@@ -9,7 +9,7 @@ has_children: false
 # MCP and Everyone Else - A Review of Inter-agent Communication Protocols
 
 
-_[Laurie Voss](https://www.linkedin.com/in/seldo/){:target="linkedin"} is VP of Developer Relations at [LlamaIndex](https://www.llamaindex.ai/workflows){:target="llamaindex"}, and former co-founder of npm Inc._
+_[Laurie Voss](https://www.linkedin.com/in/seldo/){:target="linkedin"} is the former VP of Developer Relations at [LlamaIndex](https://www.llamaindex.ai/workflows){:target="llamaindex"} and former co-founder of npm Inc._
 <br/>
 _Published: September 16, 2025_
 
