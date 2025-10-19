@@ -19,7 +19,7 @@ _Published: October 21, 2025_
 
 {: .note}
 > **Editor's Note:** 
-> Tom is a member of the [NLIP project](https://github.com/nlip-project). NLIP complements MCP in many ways, so I asked him to contribute this chapter about NLIP, which is likely to become an important tool in your arsenal, which complements your use of MCP and possibly other protocols. -- [Dean]({{site.baseurl}}/contributing/#contributors)
+> Tom is a member of the [NLIP project](https://github.com/nlip-project). NLIP complements MCP, as well as other protocols, in many ways, so I asked Tom to contribute this chapter about NLIP, which is likely to become an important tool for your AI projects. -- [Dean]({{site.baseurl}}/contributing/#contributors)
 
 
 [NLIP (Natural Language Interaction Protocol)](https://github.com/nlip-project){:target="_blank"} defines a payload format for transferring natural language conversations augmented with multimodal media.  Its intended use is as a transport between a user-facing application and an agent, or between two agents.  NLIP has defined bindings for HTTP, WebSockets and AMPQ making it useable in a variety of scenarios.  NLIP joins a roster of protocols used in agent development.  These include MCP, A2A, and OpenAI API. 
