@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Building a Deep Research Agent Using MCP-Agent
-nav_order: 210
+nav_order: 310
 parent: Developing MCP Servers
 has_children: false
 ---
