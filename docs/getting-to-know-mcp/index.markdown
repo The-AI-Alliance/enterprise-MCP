@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Getting to Know MCP and Its Ecosystem
+title: Getting to Know MCP and The Broader Ecosystem
 nav_order: 20
 has_children: true
 ---
 
-# Getting to Know MCP and Its Ecosystem
+# Getting to Know MCP and The Broader Ecosystem
 
-This section provides introductions to aspects of the MCP ecosystem. The following chapters are currently available.
+This section provides introductions to aspects of the MCP ecosystem, along with some information on other protocols that either compete with or complement MCP. The following chapters are currently available.
 
 ## MCP and Everyone Else: a Review of Inter-agent Communication Protocols
 

@@ -32,7 +32,7 @@ What is the Model Context Protocol? From the [MCP website](https://modelcontextp
 
 Here is the current planned outline, with links to chapters that are already available. Authors are shown for chapters that are coming soon. 
 
-* [Getting to know MCP and its ecosystem]({{site.baseurl}}/getting-to-know-mcp/)
+* [Getting to Know MCP and The Broader Ecosystem]({{site.baseurl}}/getting-to-know-mcp/)
   * A quick introduction to MCP
   * A dive into MCP under the hood
   * [MCP and Everyone Else: a Review of Inter-agent Communication Protocols]({{site.baseurl}}/getting-to-know-mcp/mcp-and-everyone-else/)

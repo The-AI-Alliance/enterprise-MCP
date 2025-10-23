@@ -2,7 +2,7 @@
 layout: default
 title: MCP and Everyone Else - A Review of Inter-agent Communication Protocols
 nav_order: 210
-parent: Getting to Know MCP and Its Ecosystem
+parent: Getting to Know MCP and The Broader Ecosystem
 has_children: false
 ---
 
