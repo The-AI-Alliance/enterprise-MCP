@@ -28,7 +28,7 @@ Suggestions for topics _you wish were covered_, like your pain points, are also 
 Ways to suggest ideas:
 * Comment on the proposed outline [here](https://github.com/The-AI-Alliance/enterprise-MCP/discussions/4){:target="outline"} or post a new [discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions){:target="discussions"} topic.
 * Post an [issue](https://github.com/The-AI-Alliance/enterprise-MCP/issues){:target="issues"}.
-* Send us [email](mailto:contact@thealliance.ai?subject=Suggestions&#32;for&#32;the&#32;MCP&#32;in&#32;the&#32;Enterprise&#32;website). This is a general email address, so be sure to mention this particular project, _MCP in the Enterprise: A User Guide_.
+* Send us [email](mailto:contact@thealliance.ai?subject=Suggestions for the MCP in the Enterprise website). This is a general email address, so be sure to mention this particular project, _MCP in the Enterprise: A User Guide_.
 
 Ready to offer new content or specific improvements to existing content?
 * Post a [pull request](https://github.com/The-AI-Alliance/enterprise-MCP/pulls){:target="prs"} with new content! 
