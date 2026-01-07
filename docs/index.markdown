@@ -69,7 +69,7 @@ Here is the current planned outline, with links to chapters that are already ava
 ## Other Resources on MCP
 
 * [About MCP](https://modelcontextprotocol.io/introduction){:target="_blank"}
-* The AI Alliance [glossary of terms](https://the-ai-alliance.github.io/glossary/glossary/).
+* The AI Alliance [glossary of terms](https://the-ai-alliance.github.io/glossary/glossary/){:target="_glossary"}.
 
 ## For More Information
 

@@ -19,7 +19,7 @@ _Published: October 21, 2025_
 
 {: .note}
 > **Editor's Note:** 
-> Tom is a member of the [NLIP project](https://github.com/nlip-project). NLIP complements MCP, as well as other protocols, in many ways, so I asked Tom to contribute this chapter about NLIP, which is likely to become an important tool for your AI projects. -- [Dean]({{site.baseurl}}/contributing/#contributors)
+> Tom is a member of the [NLIP project](https://github.com/nlip-project){:target="nlip"}. NLIP complements MCP, as well as other protocols, in many ways, so I asked Tom to contribute this chapter about NLIP, which is likely to become an important tool for your AI projects. -- [Dean]({{site.baseurl}}/contributing/#contributors)
 
 
 [NLIP (Natural Language Interaction Protocol)](https://github.com/nlip-project){:target="_blank"} defines a payload format for transferring natural language conversations augmented with multimodal media.  Its intended use is as a transport between a user-facing application and an agent, or between two agents.  NLIP has defined bindings for HTTP, WebSockets and AMPQ making it useable in a variety of scenarios.  NLIP joins a roster of protocols used in agent development.  These include MCP, A2A, and OpenAI API. 
@@ -68,7 +68,7 @@ An NLIP conversation is assumed to be many-turned.  That is, there may be many r
 
 ### The NLIP Project
 
-The [NLIP project](https://nlip-project.org/){:target="nlip"} is open, and includes members from industry and academia.  To name just a few, it includes industrial representatives from [IBM](https://ibm.com){:target="ibm"}, [RedHat](https://redhat.com){:target="redhat"}, [Cisco](https://cisco.com){:target="cisco"}, [ServiceNow](https://servicenow.com){:target="service-now"}, as well as academic members from [Purdue](https://purdue.edu){:target="purdue"} and [Indiana](https://bloomington.iu.edu/){:target="indiana"}.  Working meetings are organized under the auspices of the [Enterprise Neurosystem](https://www.enterpriseneurosystem.org/) with formal documents submitted to Ecma [Technical Committee 56](https://ecma-international.org/technical-committees/tc56/).  In contrast to agent software development kits controlled by one company, the goal of the NLIP project is to define an interoperable protocol that is truly open and community governed.
+The [NLIP project](https://nlip-project.org/){:target="nlip"} is open, and includes members from industry and academia.  To name just a few, it includes industrial representatives from [IBM](https://ibm.com){:target="ibm"}, [RedHat](https://redhat.com){:target="redhat"}, [Cisco](https://cisco.com){:target="cisco"}, [ServiceNow](https://servicenow.com){:target="service-now"}, as well as academic members from [Purdue](https://purdue.edu){:target="purdue"} and [Indiana](https://bloomington.iu.edu/){:target="indiana"}.  Working meetings are organized under the auspices of the [Enterprise Neurosystem](https://www.enterpriseneurosystem.org/){:target="ens"} with formal documents submitted to Ecma [Technical Committee 56](https://ecma-international.org/technical-committees/tc56/){:target="ecma"}.  In contrast to agent software development kits controlled by one company, the goal of the NLIP project is to define an interoperable protocol that is truly open and community governed.
 
 At the present time (October 2025), five final documents have been submitted to Ecma with approval expected in December 2025.
 
