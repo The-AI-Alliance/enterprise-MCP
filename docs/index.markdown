@@ -69,13 +69,13 @@ Here is the current planned outline, with links to chapters that are already ava
 ## Other Resources on MCP
 
 * [About MCP](https://modelcontextprotocol.io/introduction){:target="_blank"}
+* The AI Alliance [glossary of terms](https://the-ai-alliance.github.io/glossary/glossary/).
 
 ## For More Information
 
 * [Contributing]({{site.baseurl}}/contributing): We welcome your contributions! 
 * [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
-* [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}: The AI Alliance website.
+* [The AI Alliance](https://aialliance.org){:target="aia"}: The AI Alliance website.
 * This Project's [GitHub Repo](https://github.com/The-AI-Alliance/enterprise-MCP){:target="repo"}
 
-| **Authors**     | [Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="ai-alliance-wg"} (See the [Contributors]({{site.baseurl}}/contributing/#contributors)) |
 | **Last Update** | {{site.last_version}}, {{site.last_modified_timestamp}} |

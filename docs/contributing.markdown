@@ -43,19 +43,11 @@ Keep the following anchor in case you change the section "Join..." text.
 The link is used by the default docs/_includes/header_buttons_custom.html, for example.
 {% endcomment %}
 <a name="join-this-project"></a>
-## Join This Project Work Group
+## Join the AI Alliance or this Project Work Group
 
-Want to help us drive the evolution of MCP for the enterprise? Please join our work group, which is contributing to several enterprise MCP projects. 
+Want to help us drive the evolution of MCP for the enterprise? Please join us. 
 
-Use the form on the Alliance's [Become a collaborator](https://thealliance.ai/become-a-collaborator){:target="join-collab"} page to let us know your interests. 
-
-Check this box on the form:
-
-- [ ] Application and Tools WG
-
-In the &ldquo;Message&rdquo; box mention this project, **MCP in the Enterprise: A User Guide**, and add anything else you would like us to know.
-
-If your organization would like to join the AI Alliance, go [here](https://thealliance.ai/membership){:target="join-org"}.
+See the Alliance's [Join our Community](https://aialliance.org/join){:target="aia"} page to let us know your interests. 
 
 ## Other Notes on Contributing
 

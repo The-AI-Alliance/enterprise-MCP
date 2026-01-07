@@ -13,7 +13,7 @@ _[Sarmad Qadri](https://www.linkedin.com/in/sarmadqadri/){:target="_blank"}, Co-
 _Published: September 15, 2025_
 
 {: .note}
-> **Editor's Note:** This chapter was originally published as an [AI Alliance blog post](https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent){:target="_blank"}. It is so insightful and broadly informative that I wanted to include it in this user guide. -- [Dean]({{site.baseurl}}/contributing/#contributors)
+> **Editor's Note:** This chapter was originally published as an [AI Alliance blog post](https://www.aialliance.org/blog/building-a-deep-research-agent-using-mcp-agent){:target="blog"}. It is so insightful and broadly informative that I wanted to include it in this user guide. -- [Dean]({{site.baseurl}}/contributing/#contributors)
 
 In this chapter, I document my journey building a general-purpose, deep research agent powered by MCP, and sharing the valuable (and sometimes painful) lessons learned along the way.
 
@@ -350,7 +350,7 @@ Putting all these new pieces together worked pretty well! **Figure 1** [above](#
 
 
 {: .tip}
-> **Tip:** You can try it out in this [AI Alliance](https://thealliance.ai/){:target="aia"} example application, [Deep Research Agent for Finance](https://github.com/The-AI-Alliance/deep-research-agent-for-finance){:target="draf"}.
+> **Tip:** You can try it out in this [AI Alliance](https://aialliance.org/){:target="aia"} example application, [Deep Research Agent for Finance](https://github.com/The-AI-Alliance/deep-research-agent-for-finance){:target="draf"}.
 
 Here is the full Deep Orchestrator flow ([source code](https://github.com/lastmile-ai/mcp-agent/blob/main/src/mcp_agent/workflows/deep_orchestrator/README.md){:target="do"}):
 
@@ -386,4 +386,4 @@ I'm really happy with the progress so far to bring us to Deep Orchestrator, but 
 
 For the latest improvements and projects with MCP-Agent, check out the open source repo: [mcp-agent](https://github.com/lastmile-ai/mcp-agent){:target="mcp-agent"}.
 
-Also, check out the [AI Alliance's](https://thealliance.ai/){:target="aia"} example application, [Deep Research Agent for Finance](https://github.com/The-AI-Alliance/deep-research-agent-for-finance){:target="draf"}, which uses the Deep Research architecture for searching financial information and preparing reports.
+Also, check out the [AI Alliance's](https://aialliance.org/){:target="aia"} example application, [Deep Research Agent for Finance](https://github.com/The-AI-Alliance/deep-research-agent-for-finance){:target="draf"}, which uses the Deep Research architecture for searching financial information and preparing reports.
