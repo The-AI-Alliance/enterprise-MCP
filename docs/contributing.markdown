@@ -15,7 +15,7 @@ The following people have contributed to the creation and maintenance of this pr
 * [Tom Sheffler](https://www.linkedin.com/in/tom-sheffler/){:target="linkedin"} is a computer engineer currently working towards interoperability of secure agentic systems as part of the NLIP project.  Previously, Tom built global web applications for managing and scaling genomics computations at Roche. As an entrepreneur, he founded the cloud-based video analytics company, Sensr.net, that provided a consumer solution for home security cameras.  Tom was an early employee at Rambus where he worked on the architecture and verification of high-speed memory devices.
 	* [NLIP, Agents, and Protocols]({{site.baseurl}}/getting-to-know-mcp/nlip/)
 
-Finally, [Dean Wampler](https://www.linkedin.com/in/deanwampler/){:target="dw"},  IBM's Chief Technical Representative to the AI Alliance, is the editor for _MCP in the Enterprise: A User Guide_.
+Finally, [Dean Wampler](https://www.linkedin.com/in/deanwampler/){:target="dw"},  IBM's Chief Technical Representative to the AI Alliance, is the editor for _MCP (and Beyond) in the Enterprise: A User Guide_.
 
 More contributors to be announced soon...
 
@@ -28,7 +28,7 @@ Suggestions for topics _you wish were covered_, like your pain points, are also 
 Ways to suggest ideas:
 * Comment on the proposed outline [here](https://github.com/The-AI-Alliance/enterprise-MCP/discussions/4){:target="outline"} or post a new [discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions){:target="discussions"} topic.
 * Post an [issue](https://github.com/The-AI-Alliance/enterprise-MCP/issues){:target="issues"}.
-* Send us [email](mailto:contact@thealliance.ai?subject=Suggestions for the MCP in the Enterprise website). This is a general email address, so be sure to mention this particular project, _MCP in the Enterprise: A User Guide_.
+* Send us [email](mailto:contact@thealliance.ai?subject=Suggestions for the MCP in the Enterprise website). This is a general email address, so be sure to mention this particular project, _MCP (and Beyond) in the Enterprise: A User Guide_.
 
 Ready to offer new content or specific improvements to existing content?
 * Post a [pull request](https://github.com/The-AI-Alliance/enterprise-MCP/pulls){:target="prs"} with new content! 

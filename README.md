@@ -1,4 +1,4 @@
-# README for MCP in the Enterprise: A User Guide
+# README for MCP (and Beyond) in the Enterprise: A User Guide
 
 [Published Documentation](https://the-ai-alliance.github.io/enterprise-MCP/)
 

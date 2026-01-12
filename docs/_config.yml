@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "MCP in the Enterprise: A User Guide"
+title: "MCP (and Beyond) in the Enterprise: A User Guide"
 email: contact@thealliance.ai
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for the AI Alliance project, MCP in the Enterprise: A User Guide.
+  The website for the AI Alliance project, MCP (and Beyond) in the Enterprise: A User Guide.
 baseurl: "/enterprise-MCP" # the subpath of your site.
 url: "https://the-ai-alliance.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -67,10 +67,10 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "The AI Alliance":
-    - "https://thealliance.ai"
+    - "https://aialliance.org"
 
 nav_external_links:
-  - title: "The AI Alliance repo for MCP in the Enterprise: A User Guide"
+  - title: "The AI Alliance repo for MCP (and Beyond) in the Enterprise: A User Guide"
     url: "https://github.com/The-AI-Alliance/enterprise-MCP"
     hide_icon: false
 
