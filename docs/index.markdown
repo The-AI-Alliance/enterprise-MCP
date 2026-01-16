@@ -79,5 +79,3 @@ Here is the planned outline, with links to chapters that are already available.
 * [About Us]({{site.baseurl}}/about): More about the AI Alliance and this project.
 * [The AI Alliance](https://aialliance.org){:target="aia"}: The AI Alliance website.
 * This Project's [GitHub Repo](https://github.com/The-AI-Alliance/enterprise-MCP){:target="repo"}
-
-| **Last Update** | {{site.last_version}}, {{site.last_modified_timestamp}} |
