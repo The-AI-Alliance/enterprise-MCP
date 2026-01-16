@@ -28,7 +28,7 @@ What is the Model Context Protocol? From the [MCP website](https://modelcontextp
 >
 > We welcome feedback on our current content and suggestions for new additions. Actual submissions are even better! See [contributing]({{site.baseurl}}/contributing) or provide feedback and suggestions using our [discussion forum](https://github.com/The-AI-Alliance/enterprise-MCP/discussions){:target="discussions"}.
 >
-> In particular, the planned outline is being worked out in [this discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions/4){:target="outline"}. It is summarized next. 
+> Use [this discussion topic](https://github.com/The-AI-Alliance/enterprise-MCP/discussions/4){:target="outline"} to suggest refinements to the proposed outline below. 
 
 ## Chapters in This User Guide
 
@@ -40,15 +40,15 @@ Here is the planned outline, with links to chapters that are already available.
   * [MCP and Everyone Else: a Review of Inter-agent Communication Protocols]({{site.baseurl}}/getting-to-know-mcp/mcp-and-everyone-else/)
   * [NLIP, Agents, and Protocols]({{site.baseurl}}/getting-to-know-mcp/nlip/)
   * The MCP roadmap
+* [MCP Security]({{site.baseurl}}/security/)
+  * [Securing the Model Context Protocol: What You Need to Know]({{site.baseurl}}/security/securing-mcp-cosai/)
+  * OAuth for MCP
+  * Known MCP vulnerabilities and what to do about them.
+  * …
 * Managing MCP servers and how they are used in the enterprise.
   * How to evaluate third-party MCP servers for quality, security, and utility.
   * Tools for managing internal MCP server deployments.
   * Tools for controlling access to approved MCP servers.
-  * …
-* Security
-  * OAuth for MCP
-  * Securing your MCP servers
-  * Known MCP vulnerabilities and what to do about them.
   * …
 * [Developing MCP servers: tools, techniques, and design patterns]({{site.baseurl}}/developing-mcp-servers/)
   * [Building a Deep Research Agent Using MCP-Agent]({{site.baseurl}}/developing-mcp-servers/deep-research-mcp-agent/)

@@ -14,6 +14,9 @@ The following people have contributed to the creation and maintenance of this pr
 	* [Building a Deep Research Agent Using MCP-Agent]({{site.baseurl}}/developing-mcp-servers/deep-research-mcp-agent/).
 * [Tom Sheffler](https://www.linkedin.com/in/tom-sheffler/){:target="linkedin"} is a computer engineer currently working towards interoperability of secure agentic systems as part of the NLIP project.  Previously, Tom built global web applications for managing and scaling genomics computations at Roche. As an entrepreneur, he founded the cloud-based video analytics company, Sensr.net, that provided a consumer solution for home security cameras.  Tom was an early employee at Rambus where he worked on the architecture and verification of high-speed memory devices.
 	* [NLIP, Agents, and Protocols]({{site.baseurl}}/getting-to-know-mcp/nlip/)
+* [Ian Molly](https://www.linkedin.com/in/ian-molloy-8b951977/){:target="linkedin"} is Principal Research Staff Member and Department Head, Security Research at IBM.
+	* [Securing the Model Context Protocol: What You Need to Know]({{site.baseurl}}/security/securing-mcp-cosai/).
+
 
 Finally, [Dean Wampler](https://www.linkedin.com/in/deanwampler/){:target="dw"},  IBM's Chief Technical Representative to the AI Alliance, is the editor for _MCP (and Beyond) in the Enterprise: A User Guide_.
 

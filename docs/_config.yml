@@ -25,6 +25,11 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 , "docs/tests/", "notes.md", "vendor"
 ]
 
+# Added by AI Alliance: 
+# Glossary and reference URLs; the latter is internal to this site!
+glossaryurl: https://the-ai-alliance.github.io/glossary/glossary
+referencesurl: /references
+
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the site is built.
 # To include them, comment-out the relevant line above.
@@ -94,8 +99,8 @@ back_to_top_text: "Back to the top"
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%Y-%m-%d %H:%M %z" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-last_modified_timestamp: 2025-10-21
-last_version: 0.1.6
+last_modified_timestamp: 2026-01-15
+last_version: 0.1.7
 
 # Custom: Add the range of years for the copyright here. This is done here,
 # rather than default.html, so that the latter file can remain completely 
