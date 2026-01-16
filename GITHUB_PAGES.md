@@ -64,12 +64,15 @@ Issue PRs for the `main` branch. Note that many of our microsite repos are confi
 > [!NOTE]
 > If you are curious, the details of how the publication process is configured are discussed [below](#configuring-github-pages-in-the-repo-settings).
 
-### Updating the Website Version
+### Updating the Website Version and Last Modified Date
 
-By default, the template file for `docs/index.markdown` has the latest _version_ in a table near the top of the page and a table with the history of the versions near the bottom. Some websites have deleted this content or moved it elsewhere. We don't require you to include this information nor do we require that you update it according to any specific requirements, if you keep it. However, if you keep this information, you'll want to edit the current version in the following places:
+By default, the footer of the pages shows the latest version and laste modified date. We don't require you to include this information nor do we require that you update it according to any specific requirements, if you decide to keep it. However, if you keep this information, you'll want to update this information periodically around lines 96-97 in `docs/config.yml`:
 
-* `docs/config.yml`: Edit `last_modified_timestamp` and `last_version`.
-* `docs/index.markdown` and possible other files, like `docs/about.markdown`: Find and update **Last Update**, which by default is in a table near the top of `docs/index.markdown`, and add the new version to the **Version History** table, which by default is near the bottom of `docs/index.markdown`.
+```
+last_edit_time_format: "%Y-%m-%d" # uses ruby's time format...
+last_modified_date: 2025-07-18
+last_version: V0.2.2
+```
 
 ## Editing Conventions and Tips
 
