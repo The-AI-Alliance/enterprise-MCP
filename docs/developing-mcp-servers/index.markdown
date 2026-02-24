@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Developing MCP Servers
-nav_order: 30
+nav_order: 50
 has_children: true
 ---
 
