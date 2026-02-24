@@ -23,6 +23,8 @@ What is the Model Context Protocol? From the [MCP website](https://modelcontextp
 
 [Anthropic](https://anthropic.com){:target="anthropic"} introduced MCP to make it easier for developers to integrate third-party web services with Anthropic's products. The simplicity and flexibility of MCP ignited wider interest. It is now a _de facto_ standard protocol supported by many AI service providers and open-source AI tools. Recently, the formation of the [Agentic AI Foundation](https://aaif.io/){:target="_blank"} under the [Linux Foundation](https://www.linuxfoundation.org/){:target="_blank"} was [announced](https://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/){:target="_blank"} to promote the growth and standardization of MCP and related agent technologies.
 
+MCP is not the only protocol worth considering. In [Getting to Know MCP and The Broader Ecosystem]({{site.baseurl}}/getting-to-know-mcp/), we provide an introduction to other protocols, too. See [MCP and Everyone Else: a Review of Inter-agent Communication Protocols]({{site.baseurl}}/getting-to-know-mcp/mcp-and-everyone-else/) for an overview, including the strengths and weaknesses of the different choices.
+
 {: .note }
 > **NOTE:** This online guide is in the early stages of development. Check back regularly for new content. 
 >
@@ -32,7 +34,7 @@ What is the Model Context Protocol? From the [MCP website](https://modelcontextp
 
 ## Chapters in This User Guide
 
-Here is the planned outline, with links to chapters that are already available.  
+Here is the tentative, planned outline, with links to chapters that are already available. [Feedback]({{site.baseurl}}/contributing/#join-this-project) is welcome on the outline, as well as your chapter contributions!
 
 * [Getting to Know MCP and The Broader Ecosystem]({{site.baseurl}}/getting-to-know-mcp/)
   * A quick introduction to MCP

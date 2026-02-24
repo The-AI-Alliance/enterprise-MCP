@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Securing the Model Context Protocol: What You Need to Know"
+title: Securing the Model Context Protocol
 nav_order: 310
 parent: MCP Security
 has_children: false
