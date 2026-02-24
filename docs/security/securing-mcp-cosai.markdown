@@ -8,23 +8,23 @@ has_children: false
 
 # Securing the Model Context Protocol: What You Need to Know
 
-_[Ian Molly](https://www.linkedin.com/in/ian-molloy-8b951977/){:target="linkedin"}, IBM Research, and [Dean Wampler](https://www.linkedin.com/in/deanwampler/){:target="dw"}, The AI Alliance and IBM._
+_[Ian Molloy](https://www.linkedin.com/in/ian-molloy-8b951977/){:target="linkedin"}, IBM Research, and [Dean Wampler](https://www.linkedin.com/in/deanwampler/){:target="dw"}, The AI Alliance and IBM._
 <br/>
 _Published: September 16, 2025_
 
 {: .note}
 > **Editor's Note:** 
-> This chapter summarizes the [CoSAI](https://www.coalitionforsecureai.org/){:target="cosai"} paper [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.md){:target="gh"}, which Ian helped write, reflecting his deep expertise in security and what changes are required for secure MCP. -- [Dean]({{site.baseurl}}/contributing/#contributors)
+> This chapter summarizes the [CoSAI](https://www.coalitionforsecureai.org/){:target="cosai"} paper [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.md){:target="paper"}. Ian is one of the workstream leads for this project, reflecting his deep expertise in security and what changes are required for secure MCP. -- [Dean]({{site.baseurl}}/contributing/#contributors)
 
 The Model Context Protocol (MCP) is now a de facto standard for connecting AI agents and large language models (LLMs) to tools, data sources, and other services. A powerful, standard protocol simplifies the work developers have to do, but as adoption accelerates, so does the protocol’s security exposure.
 
-The governing board for the Coalition for Secure AI, [CoSAI](https://www.coalitionforsecureai.org/){:target="cosai"}, has approved a new paper on MCP security, [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.md){:target="gh"}. It provides the most comprehensive analysis to date of MCP’s threat landscape and offers concrete guidance for organizations deploying MCP in production.
+The governing board for the Coalition for Secure AI, [CoSAI](https://www.coalitionforsecureai.org/){:target="cosai"}, has approved a new paper on MCP security, [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.md){:target="paper"}. It provides the most comprehensive analysis to date of MCP’s threat landscape and offers concrete guidance for organizations deploying MCP in production.
 
 Let's summarize the key points in this paper.
 
 ## Why MCP Security Is Different
 
-Traditional application security frameworks assume deterministic software components operating behind well-defined trust boundaries. MCP breaks those assumptions. It places LLMs at the center of security-critical workflows, but LLMs are [Stochastic]({{site.glossaryurl}}/#stochastic){:target="_glossary"}, meaning their outputs are not deterministic, but probabilistic. Also, MCP servers dynamically advertise capabilities, negotiate access, and execute actions based on model-mediated decisions.
+Traditional application security frameworks assume deterministic software components operating behind well-defined trust boundaries. MCP breaks those assumptions. It places LLMs at the center of security-critical workflows, but LLMs are [Stochastic]({{site.glossaryurl}}/#stochastic){:target="_glossary"}, (i.e., probabilistic), meaning their outputs are not [Deterministic]({{site.glossaryurl}}/#determinism){:target="_glossary"}. Also, MCP servers dynamically advertise capabilities, negotiate access, and execute actions based on model-mediated decisions.
 
 This architecture introduces new risks that cannot be addressed by conventional API or RPC security alone. Prompt injection, tool poisoning, over-privileged delegation, and invisible agent behavior are not edge cases; they are core concerns.
 
@@ -70,10 +70,10 @@ The paper also emphasizes that MCP security is highly deployment-dependent. An a
 
 ## The Bottom Line
 
-The paper explores all these topics in depth and offers guidance on best practices to follow.
+The [paper](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.md){:target="paper"} explores all these topics in depth and offers guidance on best practices to follow.
 
 MCP is becoming critical infrastructure for agentic AI systems. As with any infrastructure layer, insecure defaults and ad-hoc deployments will lead to systemic risk if left unaddressed.
 
-[CoSAI's](https://www.coalitionforsecureai.org/){:target="cosai"} paper on [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.md){:target="gh"} makes one message clear: **security cannot be an afterthought in MCP adoption**. Organizations that invest early in identity, isolation, supply chain integrity, and observability will be far better positioned as agentic AI moves from experimentation to enterprise-wide deployment.
+[CoSAI's](https://www.coalitionforsecureai.org/){:target="cosai"} paper on [Model Context Protocol (MCP) Security](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems/blob/main/model-context-protocol-security.md){:target="paper"} makes one message clear: **security cannot be an afterthought in MCP adoption**. Organizations that invest early in identity, isolation, supply chain integrity, and observability will be far better positioned as agentic AI moves from experimentation to enterprise-wide deployment.
 
 For teams building or deploying MCP today, this guidance is not optional reading—it is a blueprint for responsible, scalable, and secure agentic systems.
