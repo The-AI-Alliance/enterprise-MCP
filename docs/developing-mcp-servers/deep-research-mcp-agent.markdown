@@ -32,7 +32,7 @@ Over the past few months, I've been asked many times when mcp-agent would suppor
 
 It turns out this is a lot more complex than I expected, even if the architectural underpinnings are conceptually simple. This post is about lessons I wanted to share to help others build their own deep research agents.
 
-You can find the open-source Deep Orchestrator agent here: [github.com/lastmile-ai/mcp-agent/src/mcp_agent/workflows/deep_orchestrator/](https://github.com/lastmile-ai/mcp-agent/src/mcp_agent/workflows/deep_orchestrator/){:target="do"}
+You can find the code for the open-source Deep Orchestrator agent [here](https://github.com/lastmile-ai/mcp-agent/tree/main/src/mcp_agent/workflows/deep_orchestrator){:target="do"}
 
 ## Objective: Deep Research, but with MCP
 
