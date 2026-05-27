@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MCP and Everyone Else - A Review of Inter-agent Communication Protocols
-nav_order: 210
+nav_order: 220
 parent: Getting to Know MCP and The Broader Ecosystem
 has_children: false
 ---
@@ -21,7 +21,7 @@ It was promised that 2025 would be the year of agents and that seems to have bro
 
 The emerging answer to that question has resulted in a secondary proliferation of inter-agent protocols. In my review I have looked at [13 different protocols](https://slides.com/seldo/comparing-agent-protocols#/5){:target="slides"} but there are surely more out there, and the space is moving very quickly indeed.
 
-## **The Vision vs. Reality**
+## The Vision vs. Reality
 
 Nearly everybody working on these protocols is aiming at roughly the same goal: agents can do amazing things, and they should be able to do amazing things *together*. The vision is that agents, regardless of their underlying implementations, should be able to:
 
@@ -35,7 +35,7 @@ The current reality is quite different. The more than a dozen protocols that exi
 
 The closest thing to a standard in the agent communication space is MCP, which has been growing by leaps and bounds in adoption, but currently at least MCP does not have inter-agent communication as an explicit design goal. So, if you’re looking for a solution for inter-agent communication, should you look elsewhere, and if so where? That’s the question this post explores.
 
-## **A Helpful Taxonomy**
+## A Helpful Taxonomy
 
 Thanks to an incredibly valuable paper by Yang et al. (["A Survey of AI Agent Protocols"](https://arxiv.org/abs/2504.16736){:target="arxiv"}, 2025), we can organize these protocols into a useful taxonomy that splits them into two main categories:
 
@@ -45,17 +45,17 @@ Thanks to an incredibly valuable paper by Yang et al. (["A Survey of AI Agent Pr
 
 This taxonomy raises an interesting and important question (raised in the paper itself) that we’re going to explore further later in this post: what is the difference, philosophically and technically, between an agent calling a tool, and an agent calling another agent?
 
-## **The Protocol Landscape**
+## The Protocol Landscape
 
 Now let’s do a lightning review of the protocols themselves.
 
-### **Context-Oriented Protocols**
+### Context-Oriented Protocols
 
 [**MCP (Model Context Protocol)**](https://modelcontextprotocol.io/docs/getting-started/intro){:target="mcp-intro"}: If you’re reading this, I assume you already know what MCP is. It's got tools, discovery, auth, request-response architecture, streaming, and as of September 8th, [a registry](https://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/){:target="registry"}, which didn’t exist at the time of the original review.
 
 [**Agents.json**](https://docs.wild-card.ai/agentsjson/introduction){:target="agents"}: The only other major context-oriented protocol. It's a file that sits at `/.well-known/agents.json` on your domain, describing what APIs you expose and crucially, how an agent should use them. It is based on OpenAPI but goes further, telling agents how to chain API calls together to achieve goals.
 
-### **Inter-Agent Protocols**
+### Inter-Agent Protocols
 
 [**A2A (Agent to Agent Protocol)**](https://a2a-protocol.org/latest/){:target="a2a"}: If you've heard about any other protocol in this space, it's probably this one. Built by Google and recently donated to the Linux Foundation for ongoing development, it's expecting to call *agents* rather than tools, so everything is async. You make a call, get a status, then poll until you get a result. This async nature is a strength if the agent will take days to answer.
 
@@ -73,39 +73,39 @@ The A2A specification covers transport, authentication, authorization, and disco
 
 There are also several domain-specific protocols (PXP, LOKA, CrowdES, Spatial Population Protocols) designed to handle things like robot communication, and efforts like [LMOS](https://eclipse.dev/lmos/){:target="lmos"} (from the well-respected [Eclipse foundation](https://eclipse.org){:target="eclipse"}) and [Agent Protocol](https://agentprotocol.ai/){:target="ap"}, but they're either too specialized or too similar to what we've already covered.
 
-## **MCP's Position**
+## MCP's Position
 
 So where does MCP stand in all this? The A\* protocols (I call them that because they nearly all start with A) collectively want agents to get data from other agents. MCP wants models to get context for things. As we asked earlier: is there really a difference between those two things? If a model is getting context from a tool, doesn’t that make it an agent? And if the thing it gets the context from is a procedural tool or another model-powered agent, isn’t that more of a semantic difference than a technical one?
 
 A2A argues there is a real differentiation here, because inter-agent communication involves long response times, multi-turn negotiation, authorization, and payment considerations. These are valid concerns for an inter-agent protocol to have, but MCP already has rapidly-developing stories for both authentication and authorization, and the beginnings of multi-turn negotiation.
 
-What does MCP lack relative to the other protocols listed above? Not very much, and even less since this initial review in April 2025\. If you know where an MCP server is, you can discover its tools and resources. It arguably lacks a good async story (something A2A does better), but that’s a relatively small point of differentiation that a few tweaks to MCP could address.
+What does MCP lack relative to the other protocols listed above? Not very much, and even less since this initial review in April 2025. If you know where an MCP server is, you can discover its tools and resources. It arguably lacks a good async story (something A2A does better), but that’s a relatively small point of differentiation that a few tweaks to MCP could address.
 
-## **MCP's Secret Weapon: Adoption**
+## MCP's Secret Weapon: Adoption
 
 What MCP has that none of these others have is adoption. MCP has clearly demonstrated utility and rapidly increasing momentum in terms of usage, contributors, and features. When it comes to forming a de-facto standard, it has the attention of the public, and that may be the most critical requirement for a successful internet protocol.
 
 Can MCP work with other protocols? That's the A2A perspective: MCP features in their architecture diagrams as the tool-use solution while they handle inter-agent concerns. But I'm not convinced. MCP is highly duplicative of these other protocols. Adding another protocol seems to add complexity for minimal gain, while adding inter-agent features to MCP seems like a relatively small lift.
 
-## **What's Missing (from all the options)**
+## What's Missing (from all the options)
 
 So is MCP perfect? No. There are key things that all these protocols lack, including MCP:
 
-### **1\. A Registry**
+### 1. A Registry
 
 At the time of the review, MCP lacked a centralized registry to discover agents. As of a few days prior to publication of this chapter, that [has changed](https://registry.modelcontextprotocol.io/){:target="registry"}, but it remains to be seen how successful it will be or whether it will see wide adoption.
 
 Regardless, a registry is essential, and solutions based on well-known files at domains are insufficient: you have to know a server exists before you can ask it to do anything. But how do you find those servers in the first place? How does an agent starting from nothing discover new tools or other agents? At some point, you need to be able to search, and a unified (even if distributed) data source is necessary for search to work.
 
-### **2\. Payment**
+### 2. Payment
 
 Many protocols sketch authentication, but authorization is different. In a world full of agents advertising themselves on a central registry, how do you get authorization to ask them to do things? Agents are expensive, LLM-powered machinery. We can't assume everyone will run them for free. The blockchain protocols have a valid problem here, if not a solution.
 
-### **3\. Reputation**
+### 3. Reputation
 
 In a universe of discoverable agents, there will be many doing similar things. You need a way to identify which ones are good and which just say they are. None of the protocols have anything to say about reputation between agents, and this is going to be critical to discovery and automated adoption where humans are not necessarily going to be reviewing every decision made by their agents.
 
-## **Where do we go from here?**
+## Where do we go from here?
 
 There are tons of open questions, but my conclusion is that MCP is doing great work and so far it's all we need. The protocol landscape is fragmented, but MCP's adoption advantage is significant.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NLIP, Agents, and Protocols
-nav_order: 220
+nav_order: 230
 parent: Getting to Know MCP and The Broader Ecosystem
 has_children: false
 ---

@@ -38,10 +38,9 @@ Here is the tentative, planned outline, with links to chapters that are already 
 
 * [Getting to Know MCP and The Broader Ecosystem]({{site.baseurl}}/getting-to-know-mcp/)
   * A quick introduction to MCP
-  * A dive into MCP under the hood
+  * [The MCP Standard]({{site.baseurl}}/getting-to-know-mcp/mcp-standard/)
   * [MCP and Everyone Else: a Review of Inter-agent Communication Protocols]({{site.baseurl}}/getting-to-know-mcp/mcp-and-everyone-else/)
   * [NLIP, Agents, and Protocols]({{site.baseurl}}/getting-to-know-mcp/nlip/)
-  * The MCP roadmap
 * [MCP Security]({{site.baseurl}}/security/)
   * [Securing the Model Context Protocol: What You Need to Know]({{site.baseurl}}/security/securing-mcp-cosai/)
   * OAuth for MCP
