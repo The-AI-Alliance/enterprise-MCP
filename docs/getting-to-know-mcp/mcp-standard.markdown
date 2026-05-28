@@ -15,7 +15,7 @@ _Published: May 27, 2026_
 
 {: .note}
 > **Editor's Note:** 
-> This chapter is adapted from the blog post [The 2026-07-28 MCP Specification Release Candidate](https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/){:target="spec-blog"} announcing the draft standard for MCP.
+> This chapter summarizes the highlights from the blog post [The 2026-07-28 MCP Specification Release Candidate](https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/){:target="spec-blog"}, which announced the draft standard for MCP.
 
 MCP's popularity and rapid adoption quickly surfaced the need to standardize existing features of MCP, to make them unambiguous for implementers and users, as well as the need to identify and fill gaps that become potential blockers for even wider adoption.
 
@@ -74,4 +74,4 @@ Tool `inputSchema` and `outputSchema` now fully support the full JSON Schema 202
 
 The draft standard is currently under review. Feedback is welcome. If you find a problem, you can [open an issue](https://github.com/modelcontextprotocol/modelcontextprotocol/issues){:target="spec"} in the [specification repository](https://github.com/modelcontextprotocol/modelcontextprotocol/){:target="spec"}. The blog post mentions other avenues for providing feedback, too.
 
-The plan is to publish the final standard July 28, 2026. We will update this chapter with any changes when that happens. 
+The plan is to publish the final standard July 28, 2026. We will update this chapter with final changes when that happens. 
