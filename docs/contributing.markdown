@@ -48,7 +48,7 @@ See also the full list of projects [here](https://the-ai-alliance.github.io/){:t
 
 Want to help us drive the evolution of MCP for the enterprise? Please join us. 
 
-See the Alliance's [Join our Community](https://aialliance.org/join){:target="aia"} page to let us know your interests. 
+See the Alliance's [Join our Community](https://thealliance.ai/join){:target="aia"} page to let us know your interests. 
 
 ## Other Notes on Contributing
 
